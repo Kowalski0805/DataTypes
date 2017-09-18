@@ -1,2 +1,2 @@
-# DataTypes
-Built-in data types
+# Структури даних
+Вбудовані структури даних
